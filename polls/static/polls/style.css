@@ -1,0 +1,13 @@
+li a {
+    color: white;
+}
+
+body {
+    margin: 0px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+    /*background: white url("images/background.jpg");*/
+}
